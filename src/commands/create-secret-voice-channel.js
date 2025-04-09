@@ -5,7 +5,7 @@ import {
   MessageFlags,
 } from "discord.js";
 
-import db from "../db.js";
+import { db } from "../db.js";
 
 const MAX_INVITES = 10;
 
